@@ -1,9 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="exploded-war" name="h2-exploded">
-    <output-path>$PROJECT_DIR$/out/artifacts/h2_exploded</output-path>
-    <root id="root">
-      <element id="dir-copy" path="$PROJECT_DIR$/java-example-2/src/main/webapp/WEB-INF" />
-      <element id="dir-copy" path="$PROJECT_DIR$/java-example-2/target/java-example/META-INF" />
-    </root>
-  </artifact>
-</component>

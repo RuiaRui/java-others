@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="exploded-war" name="h2">
-    <output-path>$PROJECT_DIR$/out/artifacts/h2</output-path>
-    <root id="root">
-      <element id="artifact" artifact-name="h2-exploded" />
-    </root>
-  </artifact>
-</component>
